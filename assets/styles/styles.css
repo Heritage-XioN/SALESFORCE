@@ -492,7 +492,7 @@ a{
   padding: 1rem 1.5rem;
 }
 
-@media(min-width: 1025px) {
+@media(min-width: 992px) {
   .intro_container,.main_2,.main_3{
   padding: 0rem 10rem;
   }
