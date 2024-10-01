@@ -244,6 +244,10 @@ video{
   width: 6.5rem;
   height: 2rem;
 }
+.card_view{
+  width: 100%;
+  padding: 0rem 1.5rem;
+}
 .main_2_card{
   width: 100%;
   padding-left: 1.5rem;
@@ -588,6 +592,10 @@ a{
     justify-self: center;
     width: 50%;
   }
+  .pc{
+    padding: 0rem 3rem;
+    margin-bottom: 10rem;
+  }
   .main_2_card{
     margin-top: 10rem;
     display: flex;
@@ -597,10 +605,11 @@ a{
   }
   .card_img{
     margin-right: 9rem;
+    margin-left: 5rem;
   }
   .headshot{
-    width: 18rem;
-    height: 18rem;
+    width: 20rem;
+    height: 20rem;
   }
   .card_header{
     padding: 1rem 0rem;
@@ -641,6 +650,9 @@ a{
     font-weight: bold;
     color: #032D60;
   }
+  .main_3_img_comtainer{
+    margin-top: 8rem;
+  }
   .main_3_header_container_flex{
     display: flex;
     padding-left: 5rem
@@ -662,8 +674,8 @@ a{
     border-radius: 10px;
     background-color: black;
   }
-  main_4{
-    padding: 0rem 1rem;
+  .main_4{
+    padding: 0rem 4rem;
   }
   .card_grid_view{
     width: 100%;
