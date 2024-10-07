@@ -488,6 +488,41 @@ a{
 }
 .main_4_btn_comtainer{
   margin-top: 3.5rem;
+  margin-bottom: 3.7rem;
+}
+.main_5{
+  width: 100%;
+  padding: 1rem 1.5rem;
+}
+.purple{
+  border-top: 8px solid #D17DFE;
+}
+.m5{
+  margin-top: 2rem;
+  text-align: center;
+}
+.main_6{
+  width: 100%;
+  padding: 1rem 1.5rem;
+}
+.main_6_card{
+  width: 100%;
+  padding-bottom: 3rem;
+  box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.19);
+  border-radius: 15px;
+  margin-bottom: 1.5rem;
+}
+.half_img{
+  width: 100%;
+  height: 10rem;
+  border-top-left-radius:15px ;
+  border-top-right-radius: 15px;
+}
+.nain_6_card_content{
+  padding-left: 1.5rem;
+  padding-right: 1rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 }
 .main_5{
   width: 100%;
@@ -508,7 +543,7 @@ a{
 }
 
 @media(min-width: 1025px) {
-  .intro_container,.main_2,.main_3{
+  .intro_container,.main_2,.main_3,.main_6{
   padding: 0rem 10rem;
   }
   .floating_icon{
@@ -770,9 +805,6 @@ a{
   .main_4_btn_comtainer{
     display: flex;
     justify-content: space-around;
-  }
-  main_5{
-    
   }
     .card_1{
     grid-column: 1/2;
